@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://miro.medium.com/max/796/0*geeGKDz_QnKdYtmC.png
+![alt text](https://miro.medium.com/max/796/0*geeGKDz_QnKdYtmC.png)
 
 ### `DEMO` https://hardcore-hermann-625bec.netlify.app/
 
