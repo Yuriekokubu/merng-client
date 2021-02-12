@@ -145,7 +145,7 @@ function SinglePost(props) {
   }
   return postMarkup;
 }
-
+ 
 const SUBMIT_COMMENT_MUTATION = gql`
   mutation($postId: String!, $body: String!) {
     createComment(postId: $postId, body: $body) {
